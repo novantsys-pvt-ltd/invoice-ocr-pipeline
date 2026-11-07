@@ -4,7 +4,7 @@ ML service for automated invoice data extraction: accepts uploaded
 invoices (PDF/image), runs OCR + extraction, returns structured data
 (vendor, line items, totals, confidence scores).
 
-Instantiated from [service-template](https://github.com/YuvarajAravindan-AI-Agent/service-template) —
+Instantiated from [service-template](https://github.com/novantsys-pvt-ltd/service-template) —
 Catalyst-first, with a documented, testable route to AWS, Azure, GCP, or
 Alibaba if this ever needs to move. See [docs/architecture.md](docs/architecture.md)
 for the full design rationale and [docs/provider-matrix.md](docs/provider-matrix.md)
